@@ -20,7 +20,7 @@ struct ContentView: View {
                     .padding([.leading, .bottom, .trailing], 0.006)
                     .cornerRadius(25)
                 HStack {
-                    Text("KIARA MATHEWS")
+                    Text("KIA MATHEWS")
                         .font(.title2)
                         .fontWeight(.bold)
                         .foregroundColor(Color(hue: 0.915, saturation: 0.341, brightness: 0.481))
